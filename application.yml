@@ -1,3 +1,9 @@
+info:
+  description: Config-server
+  url: https://github.com/somas/config
+
+---
+
 spring:
   profiles: camel
 camel:
