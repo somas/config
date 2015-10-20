@@ -1,5 +1,3 @@
-spring:
-  profiles: camel
 camel:
   freemarker:
     hotdeploy:
