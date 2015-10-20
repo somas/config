@@ -1,0 +1,6 @@
+spring:
+  profiles: camel
+camel:
+  freemarker:
+    hotdeploy:
+      contentCache: true
